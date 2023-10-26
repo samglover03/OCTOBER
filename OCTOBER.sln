@@ -8,6 +8,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCTOBER.Client", "Client\OC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCTOBER.Shared", "Shared\OCTOBER.Shared.csproj", "{04672A6F-2BC8-4E97-A013-742733AC2F40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCTOBER.EF", "OCTOBER.EF\OCTOBER.EF.csproj", "{9B0212F2-71E1-46D9-8B39-38A8E67FE05B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +56,18 @@ Global
 		{04672A6F-2BC8-4E97-A013-742733AC2F40}.Release|x64.Build.0 = Release|Any CPU
 		{04672A6F-2BC8-4E97-A013-742733AC2F40}.Release|x86.ActiveCfg = Release|Any CPU
 		{04672A6F-2BC8-4E97-A013-742733AC2F40}.Release|x86.Build.0 = Release|Any CPU
+		{9B0212F2-71E1-46D9-8B39-38A8E67FE05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0212F2-71E1-46D9-8B39-38A8E67FE05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0212F2-71E1-46D9-8B39-38A8E67FE05B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9B0212F2-71E1-46D9-8B39-38A8E67FE05B}.Debug|x64.Build.0 = Debug|Any CPU
+		{9B0212F2-71E1-46D9-8B39-38A8E67FE05B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9B0212F2-71E1-46D9-8B39-38A8E67FE05B}.Debug|x86.Build.0 = Debug|Any CPU
+		{9B0212F2-71E1-46D9-8B39-38A8E67FE05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0212F2-71E1-46D9-8B39-38A8E67FE05B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0212F2-71E1-46D9-8B39-38A8E67FE05B}.Release|x64.ActiveCfg = Release|Any CPU
+		{9B0212F2-71E1-46D9-8B39-38A8E67FE05B}.Release|x64.Build.0 = Release|Any CPU
+		{9B0212F2-71E1-46D9-8B39-38A8E67FE05B}.Release|x86.ActiveCfg = Release|Any CPU
+		{9B0212F2-71E1-46D9-8B39-38A8E67FE05B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

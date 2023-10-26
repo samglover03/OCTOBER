@@ -1,0 +1,12 @@
+/Users/samglover/CISC437/OCTOBER/OCTOBER.EF/bin/Debug/net6.0/OCTOBER.EF.deps.json
+/Users/samglover/CISC437/OCTOBER/OCTOBER.EF/bin/Debug/net6.0/OCTOBER.EF.dll
+/Users/samglover/CISC437/OCTOBER/OCTOBER.EF/bin/Debug/net6.0/OCTOBER.EF.pdb
+/Users/samglover/CISC437/OCTOBER/OCTOBER.EF/obj/Debug/net6.0/OCTOBER.EF.csproj.AssemblyReference.cache
+/Users/samglover/CISC437/OCTOBER/OCTOBER.EF/obj/Debug/net6.0/OCTOBER.EF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samglover/CISC437/OCTOBER/OCTOBER.EF/obj/Debug/net6.0/OCTOBER.EF.AssemblyInfoInputs.cache
+/Users/samglover/CISC437/OCTOBER/OCTOBER.EF/obj/Debug/net6.0/OCTOBER.EF.AssemblyInfo.cs
+/Users/samglover/CISC437/OCTOBER/OCTOBER.EF/obj/Debug/net6.0/OCTOBER.EF.csproj.CoreCompileInputs.cache
+/Users/samglover/CISC437/OCTOBER/OCTOBER.EF/obj/Debug/net6.0/OCTOBER.EF.dll
+/Users/samglover/CISC437/OCTOBER/OCTOBER.EF/obj/Debug/net6.0/refint/OCTOBER.EF.dll
+/Users/samglover/CISC437/OCTOBER/OCTOBER.EF/obj/Debug/net6.0/OCTOBER.EF.pdb
+/Users/samglover/CISC437/OCTOBER/OCTOBER.EF/obj/Debug/net6.0/ref/OCTOBER.EF.dll

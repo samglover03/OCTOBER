@@ -33,6 +33,15 @@
       "Microsoft.JSInterop.dll": "sha256-VTDsn6SPPfuGAfSeAJqyeJVv0xlxI\/TRuqXq4mB7L4o=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-05A\/QcCaG+1uiEdUF\/oP5gkPxXlFFcIE2lX1FjtoGwE=",
       "System.IO.Pipelines.dll": "sha256-6+E55JXedimdw1c1bDtVg4K7XuWjVWVTifH8QpfzXSY=",
+      "Telerik.DataSource.dll": "sha256-U33thyqLuucpDeuZIuDAPb6Gy78yu9CepdmUea2FnkI=",
+      "Telerik.Documents.SpreadsheetStreaming.dll": "sha256-3zqaCSLiHX2\/j10PRmB+anZGDZ\/v+0wid3MRSdl8p4I=",
+      "Telerik.FontIcons.dll": "sha256-HX2N9Lq711GSga+C7DZmnRRgsW7EDxx6RI0UuBAUu1Y=",
+      "Telerik.Pivot.Core.dll": "sha256-PbjSpT\/uYJ9vXnFnpwSMRFZK1o9obfbR9rw\/HJzzmnY=",
+      "Telerik.Pivot.DataProviders.Xmla.dll": "sha256-ZuMioY1pPPBMz8suIAnoSO7\/sDUXroTPD1FhyBySpNw=",
+      "Telerik.Recurrence.dll": "sha256-v53etV9clBcWwljujBfxs5nuvwtAia6WOB7PZTqvhtk=",
+      "Telerik.SvgIcons.dll": "sha256-gZ1NQqIn5VSfMkx+aKsBb1j4A29f1pIPQi1y+zU5gw8=",
+      "Telerik.Blazor.dll": "sha256-hy8+kMB8VYVZe2L2DTySlp1AD7BmOYeuC6JuzFTVCaw=",
+      "Telerik.Zip.dll": "sha256-+qA+YF5DSxklmHy52uxSQwlqFiFr7u7SclS48NxeftE=",
       "Microsoft.CSharp.dll": "sha256-Ye4t933y36TbJl6IpchneTNSbV\/6JGh9CntZgkNqNlQ=",
       "Microsoft.VisualBasic.Core.dll": "sha256-DI3+33WGWuPKaAinjuPONRmCfnxMUzQCm1JZ+3kvS1A=",
       "Microsoft.VisualBasic.dll": "sha256-OUNUgOkoO4oxxitCiMqtofVU2JU\/iou\/Aio76\/3QEnI=",
@@ -199,15 +208,15 @@
       "mscorlib.dll": "sha256-D5WOduwfHIVs16sd8pVfNv4Eds9tQ2NT8i76hAjMR+0=",
       "netstandard.dll": "sha256-pScPb55DPeUUjIV7Sb2kpm97MKENOFkNOtft8Qn3ZfY=",
       "System.Private.CoreLib.dll": "sha256-OiJzDXtKEcx9+mdD6IUHYTZSmYtzbH4kfWQS\/PsOTOg=",
-      "OCTOBER.Shared.dll": "sha256-7AyRaI4D2Ecl8HOBFeQhW5KU1PyHSqslk7C9InfnVVU=",
-      "OCTOBER.Client.dll": "sha256-DnvpIiEK3xZHbX4MatXsnYLHeTEOfeLarlwlmgKIbz0="
+      "OCTOBER.Shared.dll": "sha256-0I4cKzC\/\/Gqh0Lgm9m2S360uTN+pnH4c2+FcbSdV94I=",
+      "OCTOBER.Client.dll": "sha256-q3\/739K1igh2mjV6t0MKJbeWxUcZl\/\/Oi\/\/\/qvB+XPU="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "OCTOBER.Shared.pdb": "sha256-Y8wV9V6jvlHHP8CKmsxe3FSZBhB7LmSntej8aWDji30=",
-      "OCTOBER.Client.pdb": "sha256-DngH5G3yKwanWy1\/oJ5bjl\/ZmDDVqi8rEm3B2y+jf6I="
+      "OCTOBER.Shared.pdb": "sha256-C3S0zB8alhJuAf6b4dbGLBHrLMWpIojvzn4NluqK3rM=",
+      "OCTOBER.Client.pdb": "sha256-8Tjh+e3EXaxX6Puc3qvAJ3Q+SR4ruPByxm8nnlMt7L4="
     },
     "runtime": {
       "dotnet.6.0.24.kmtugu2ch3.js": "sha256-0zvLbm2N57A5LNSoUWIIMXXq7ldIwes8W5WY9\/G84GE=",
