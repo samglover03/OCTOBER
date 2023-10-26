@@ -1,0 +1,12 @@
+/Users/samglover/CISC437/OCTOBER/Shared/bin/Debug/net6.0/OCTOBER.Shared.deps.json
+/Users/samglover/CISC437/OCTOBER/Shared/bin/Debug/net6.0/OCTOBER.Shared.dll
+/Users/samglover/CISC437/OCTOBER/Shared/bin/Debug/net6.0/OCTOBER.Shared.pdb
+/Users/samglover/CISC437/OCTOBER/Shared/obj/Debug/net6.0/OCTOBER.Shared.csproj.AssemblyReference.cache
+/Users/samglover/CISC437/OCTOBER/Shared/obj/Debug/net6.0/OCTOBER.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samglover/CISC437/OCTOBER/Shared/obj/Debug/net6.0/OCTOBER.Shared.AssemblyInfoInputs.cache
+/Users/samglover/CISC437/OCTOBER/Shared/obj/Debug/net6.0/OCTOBER.Shared.AssemblyInfo.cs
+/Users/samglover/CISC437/OCTOBER/Shared/obj/Debug/net6.0/OCTOBER.Shared.csproj.CoreCompileInputs.cache
+/Users/samglover/CISC437/OCTOBER/Shared/obj/Debug/net6.0/OCTOBER.Shared.dll
+/Users/samglover/CISC437/OCTOBER/Shared/obj/Debug/net6.0/refint/OCTOBER.Shared.dll
+/Users/samglover/CISC437/OCTOBER/Shared/obj/Debug/net6.0/OCTOBER.Shared.pdb
+/Users/samglover/CISC437/OCTOBER/Shared/obj/Debug/net6.0/ref/OCTOBER.Shared.dll
